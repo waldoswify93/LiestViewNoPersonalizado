@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">LiestViewNoPersonalizado</string>
+    <string name="add">Agregar Carro</string>
+    <string name="list_cars">Listar Carros</string>
+    <string name="Reports">Reportes</string>
+    <string name="plate">Placa</string>
+    <string name="save">Guardar</string>
+    <string name="clear">Borrar</string>
+    <string name="price">Precio</string>
+    <string-array name="lst_options">
+        <item>@string/add</item>
+        <item>@string/list_cars</item>
+        <item>@string/Reports</item>
+    </string-array>
+    <string name="brandMazda" translatable="false">Mazda</string>
+    <string name="brandToyota" translatable="false">Toyota</string>
+    <string name="brandKia" translatable="false">KIA</string>
+    <string name="brandBMW" translatable="false">BMW</string>
+    <string name="brandChevrolet" translatable="false">Chevrolet</string>
+    <string-array name="brand_option">
+        <item>@string/brandBMW</item>
+        <item>@string/brandChevrolet</item>
+        <item>@string/brandKia</item>
+        <item>@string/brandMazda</item>
+        <item>@string/brandToyota</item>
+    </string-array>
+    <string name="model2005" translatable="false">2005</string>
+    <string name="model2008" translatable="false">2008</string>
+    <string name="model2012" translatable="false">2012</string>
+    <string name="model2017" translatable="false">2017</string>
+    <string name="model2018" translatable="false">2018</string>
+    <string name="model2019" translatable="false">2019</string>
+
+    <string-array name="model_option">
+        <item>@string/model2005</item>
+        <item>@string/model2008</item>
+        <item>@string/model2012</item>
+        <item>@string/model2017</item>
+        <item>@string/model2018</item>
+        <item>@string/model2019</item>
+    </string-array>
+    <string name="colorBlack">Negro</string>
+    <string name="colorWhite">Blanco</string>
+    <string name="colorRed">Rojo</string>
+    <string name="colorBlue">Azul</string>
+    <string-array name="color_option">
+        <item>@string/colorBlack</item>
+        <item>@string/colorBlue</item>
+        <item>@string/colorRed</item>
+        <item>@string/colorWhite</item>
+    </string-array>
+    <string name="msjSave">Guardado</string>
+</resources>

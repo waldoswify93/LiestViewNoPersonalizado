@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LiestViewNoPersonalizado</string>
+    <string name="add">Add car</string>
+    <string name="list_cars">Cars</string>
+    <string name="Reports">Reports</string>
+    <string name="clear">Clear</string>
+    <string name="plate">Plate</string>
+    <string name="save">Save</string>
+    <string name="price">Price</string>
+    <string name="colorBlack">Black</string>
+    <string name="colorWhite">White</string>
+    <string name="colorRed">Red</string>
+    <string name="colorBlue">Blue</string>
+    <string name="msjSave">Saved</string>
+</resources>
